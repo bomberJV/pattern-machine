@@ -1,5 +1,8 @@
 # Pattern Machine
 
+[Project priorities and agent handoff](https://github.com/bomberJV/brandon-studio/tree/priority-hub/priorities)
+
+
 Sequence two bars of melody and drums, then export the track.
 
 From the repository root, run `python -m http.server 8000` and open [Pattern Machine](http://localhost:8000/sound/).
